@@ -1,0 +1,15 @@
+.big {
+    font-size: 24px;
+}
+.red {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+#green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
